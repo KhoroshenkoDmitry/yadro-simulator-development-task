@@ -7,6 +7,7 @@ import json
 from pathlib import Path
 
 import pytest
+
 from src import (
     HOURS_PER_DAY,
     Consumer,
