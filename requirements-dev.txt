@@ -1,0 +1,7 @@
+-r requierements.txt
+pytest>=7.0
+pytest-cov>=4.0
+ruff>=0.6.0
+mypy>=1.11.0
+taskipy>=1.13.0
+pre-commit>=3.5.0
