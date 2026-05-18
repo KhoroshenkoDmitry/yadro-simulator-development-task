@@ -34,7 +34,7 @@ tests/
 | `numpy`        | 1.24               | векторы коэффициентов для MILP          |
 | `scipy`        | 1.11               | бэкенд `scipy.optimize.milp` (HiGHS)    |
 | `pulp`         | 2.7                | альтернативный бэкенд (CBC)             |
-| `pytest`       | 7.0                | тесты                                   |
+| `pytest`       | 7.0                | тесты (dev)                             |
 | `pytest-cov`   | 4.0                | покрытие (dev)                          |
 | `ruff`         | 0.6                | линт и формат (dev)                     |
 | `mypy`         | 1.11               | проверка типов (dev)                    |
